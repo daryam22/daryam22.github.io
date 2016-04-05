@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pure CSS Image Lightbox</title>
+<link href="gallery.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<h1>Pure CSS Image Lightbox</h1>
+	<p>Click on one of the images below to pop the lightbox.<br>
+    Use the next and previous buttons to navigate through the images<br>
+    and close the lightbox with the X on the top right.</p>
+    
+    
+	<section id="gallery"> 
+		<!-- thumbnail image wrapped in a link -->
+		<section class="item"> 
+        	<a href="#img1"><img src="img/elephant background copy.png"></a>
+        </section>
+        
+		<section class="item">
+        	<a href="#img2"><img src="img/elephant background copy.png"></a>
+        </section>
+		
+        <section class="item">
+        	<a href="#img3"><img src="img/elephant background copy.png"></a>
+        </section>
+        
+	</section>
+
+	<!-- lightbox container hidden with CSS -->
+	<div class="lightbox" id="img1">
+		<div class="box"> 
+        	<a class="close" href="#">✖</a>
+		<p class="title">This 🐼 is the title of the picture</p>
+		<div class="content"> 
+        	<img src="../_img/img1.jpg">
+			<p class="desc">This </p>
+        </div>
+		<a class="prev" href="#img3">☜</a>
+        <a class="next" href="#img2">☞</a>
+		<div class="clear">lets see where this shows up</div>
+		</div>
+    </div>
+    
+	<div class="lightbox" id="img2">
+		<div class="box"> 
+        	<a class="close" href="#">✖</a>
+		<p class="title">This is the title of the picture</p>
+		<div class="content"> 
+        	<img src="../_img/img2.jpg">
+			<p class="desc">This is </p>
+        </div>
+		<a class="prev" href="#img1">☜</a> 
+        <a class="next" href="#img3">☞</a>
+		<div class="clear"></div>
+		</div>
+    </div>
+
+	<div class="lightbox" id="img3">
+		<div class="box"> 
+        	<a class="close" href="#">✖</a>
+		<p class="title">This is the title of the picture</p>
+		<div class="content"> 
+        	<img src="../_img/img3.jpg">
+			<p class="desc">This is w!</p>
+        </div>
+		<a class="prev" href="#img2">☜</a> 
+        <a class="next" href="#img1">☞</a>
+		<div class="clear"></div>
+		</div>
+    </div>
+
+</body>
+</html>
