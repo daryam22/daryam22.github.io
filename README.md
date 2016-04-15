@@ -8,7 +8,7 @@
 **H**eavy
 **A**rtistic
 **N**utty
-**T**runks
+**T**ough
 **S**ocial
 
 :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant:
