@@ -17,3 +17,10 @@
 :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant:
 :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant:
 :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant: :elephant:
+
+
+Gentle | Giants
+------------ | -------------
+strong family ties | world's largest land mammals
+the matriach leads the community| males can weigh up to 6 tons
+members of a family show intensive cooperation in decision-making| live up to around 70 years
