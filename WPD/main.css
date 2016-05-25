@@ -69,7 +69,7 @@ a:hover, a:active, a:focus {
 }
 	
 
-.sidebar1 {
+.sidebar {
 	float: left;
 	width: 20%;
 	background-color: #993;
@@ -101,70 +101,7 @@ a:hover, a:active, a:focus {
     .sidebar li:hover {
       color: white; 
 }
-.sidebar2 {
-	float: left;
-	width: 20%;
-	background-color: #993;
-	background-image: url(img/savanna_4.jpg);
-	padding-bottom: 10px;
-	height: 1100px;
-	background-size:cover;
-	position: fixed;
-  top: 0px;
-  bottom: 0px;
-  left: -190px;
-  transition: all ease-out 0.5s ;
-  width: 120px;
-  padding: 30px;
-  background: rgba(51,51,51,0.4);
-  z-index: 0; }
-  .sidebar ul {
-    list-style: none;
-    margin: 0;
-    padding: 0; }
-  .sidebar li {
-    color: rgba(255, 255, 255, 0.8);
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    margin: 0;
-    margin-bottom: 16px;
-    -webkit-font-smoothing: antialiased;
-    cursor: pointer; }
-    .sidebar li:hover {
-      color: white; 
-}
-.sidebar3 {
-	float: left;
-	width: 20%;
-	background-color: #993;
-	background-image: url(img/savanna_4.jpg);
-	padding-bottom: 10px;
-	height: 1100px;
-	background-size:cover;
-	position: fixed;
-  top: 0px;
-  bottom: 0px;
-  left: -190px;
-  transition: all ease-out 0.5s ;
-  width: 120px;
-  padding: 30px;
-  background: rgba(51,51,51,0.4);
-  z-index: 0; }
-  .sidebar ul {
-    list-style: none;
-    margin: 0;
-    padding: 0; }
-  .sidebar li {
-    color: rgba(255, 255, 255, 0.8);
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-size: 16px;
-    margin: 0;
-    margin-bottom: 16px;
-    -webkit-font-smoothing: antialiased;
-    cursor: pointer; }
-    .sidebar li:hover {
-      color: white; 
-}
+
 	
 .content {
 	padding: 10px 0;
