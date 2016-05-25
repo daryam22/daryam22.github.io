@@ -62,15 +62,13 @@ form#signup select{
 	padding: 7px 45px 7px 10px;
 	border: 1px solid white;
 }
-form#signup input[type="checkbox"],
-form#signup input[type="radio"] {
+form#signup input[type="checkbox"], form#signup input[type="radio"] {
 	width: 20px;
 	margin: 0px;
 	padding: 0px;
 	opacity: 0;
 }
-form#signup input[type="checkbox"] +label ,
-form#signup input[type="radio"] +label {
+form#signup input[type="checkbox"] + label, form#signup input[type="radio"] + label {
 	display: inline-block;
 	margin-left: -20px;
 	padding: 4px 0px 0px 27px;
@@ -78,24 +76,24 @@ form#signup input[type="radio"] +label {
 	background-size: 20px 80px;
 	line-height: 16px;
 }
-form#signup input[type="checkbox"] +label {
+form#signup input[type="checkbox"] + label {
 	background-position: 0px 0px;
 }
-form#signup input[type="radio"] +label {
+form#signup input[type="radio"] + label {
 	background-position: 0px -40px;
 }
-form#signup input:checked +label {
+form#signup input:checked + label {
 	color: #ffd34c;
 }
-form#signup input[type="checkbox']:checked +label {
+form#signup input[type="checkbox"]:checked + label {
 	background-position: 0px -20px;
 }
-form#signup input[type="radio"]:checked +label {
+form#signup input[type="radio"]:checked + label {
 	background-position: 0px -60px;
 }
 form#signup input#email {
 	font-size: .9em;
-	background: rbga(255, 255, 255, .8) url(Images/icon_email.svg) no-repeat 7px 6px;   
+	background: rgba(255, 255, 255, .8) url(Images/icon_email.svg) no-repeat 7px 6px;   
 	background-size: 30px 17px;
 	padding: 5px 0px 6px 47px;
 	margin: 0px 0px 12px 0px;
